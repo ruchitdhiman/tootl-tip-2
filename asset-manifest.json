@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tootl-tip-2/static/css/main.f6ac93f6.css",
+    "main.js": "/tootl-tip-2/static/js/main.e32e70c7.js",
+    "static/js/787.fb3aff8d.chunk.js": "/tootl-tip-2/static/js/787.fb3aff8d.chunk.js",
+    "index.html": "/tootl-tip-2/index.html",
+    "main.f6ac93f6.css.map": "/tootl-tip-2/static/css/main.f6ac93f6.css.map",
+    "main.e32e70c7.js.map": "/tootl-tip-2/static/js/main.e32e70c7.js.map",
+    "787.fb3aff8d.chunk.js.map": "/tootl-tip-2/static/js/787.fb3aff8d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6ac93f6.css",
+    "static/js/main.e32e70c7.js"
+  ]
+}
